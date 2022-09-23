@@ -1,4 +1,5 @@
-# Metapods
+<img src="https://user-images.githubusercontent.com/63473496/191950574-08c61de0-cd9a-4ece-9ea4-4bff1bd8f351.png" height="100" width="auto" align="left"/>
+<h1 align="left">Metapods </h1>  
 
 Built on top of [React Native Boilerplate](https://github.com/ethereum-boilerplate/ethereum-react-native-boilerplate) 
 
