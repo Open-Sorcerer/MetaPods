@@ -5,6 +5,7 @@ Built on top of [React Native Boilerplate](https://github.com/ethereum-boilerpla
 
 ## Download APK from [here](https://github.com/Open-Sorcerer/MetaPods/releases/tag/v1.0.0)
 
+### Video Demo - [here](https://drive.google.com/file/d/16W8kAW_4BRy19_MJdlKvVPSyO-1Vgv5q/view?usp=sharing)
 ### Pitch Deck - [here](https://www.canva.com/design/DAFMyeND2R8/RJX0mK_iIzfNOD_IJ-twqg/view?utm_content=DAFMyeND2R8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 **MetaPods is a mobile app to share images,videos and other heavy files with your friends over a decentralized network.** We are using a **Polygon Smart contract** to make sure about the logic and IPFS as the storage protocol. 
